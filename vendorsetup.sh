@@ -14,5 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo glaze_peregrine-eng
 add_lunch_combo glaze_peregrine-userdebug
